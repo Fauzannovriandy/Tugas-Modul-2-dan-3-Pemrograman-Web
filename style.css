@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: rgb(0, 113, 212);
+}
+
+table {
+  padding: 15px;
+  margin: 40px auto;
+  color: #333;
+  width: 550px;
+  border: 4px solid rgb(39, 11, 197);
+  background-color: #fff;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+th,
+td {
+  border: 2px solid rgb(105, 0, 197);
+}
+
+th,
+td {
+  padding: 10px;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 5px;
+}
+
+input[type="button"],
+input[type="submit"] {
+  padding: 5px 10px;
+  margin: auto;
+  display: block;
+}
+
+p {
+  color: #fff;
+  width: 550px;
+  margin: auto;
+  font-weight: 700;
+}
+
+.container {
+  padding: 15px;
+  margin: 40px auto;
+  color: #333;
+  width: 550px;
+  border: 4px solid rgb(39, 11, 197);
+  background-color: #fff;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.nota {
+  color: rgb(0, 0, 0);
+  width: 550px;
+  margin: auto;
+  font-weight: 700;
+}
